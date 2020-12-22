@@ -1,0 +1,56 @@
+.message-list.data-v-a91f51d4 {
+  padding: 40rpx 30rpx;
+  background-color: #fff;
+  border-bottom: 4rpx solid #f5f5f5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.message-list .item-left.data-v-a91f51d4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.message-list .item-left image.data-v-a91f51d4 {
+  width: 90rpx;
+  height: 90rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.message-list .item-left-right.data-v-a91f51d4 {
+  margin-left: 40rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.message-list .item-left-right text.data-v-a91f51d4:nth-child(1) {
+  font-size: 34rpx;
+  font-weight: 700;
+  color: #333;
+}
+.message-list .item-left-right text.data-v-a91f51d4:last-child {
+  font-size: 30rpx;
+  color: #999;
+}
+.message-list .item-right image.data-v-a91f51d4 {
+  width: 14rpx;
+  height: 24rpx;
+}
+.message-list .item-right text.data-v-a91f51d4 {
+  font-size: 30rpx;
+  color: #999;
+}
+

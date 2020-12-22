@@ -1,0 +1,130 @@
+.container {
+  background-color: #4b89ff;
+}
+.continuous {
+  padding: 20rpx 20rpx 0 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.continuous-left {
+  font-size: 26rpx;
+  color: #fff;
+}
+.continuous-left text {
+  font-size: 32rpx;
+  color: #ffd74a;
+}
+.continuous-right {
+  font-size: 26rpx;
+  color: #fff;
+}
+.continuous-right text {
+  font-size: 32rpx;
+  color: #fff;
+}
+.signin-img {
+  margin: 50rpx 0;
+  text-align: center;
+}
+.signin-img .ljqd {
+  width: 308rpx;
+  -webkit-border-radius: 45rpx;
+          border-radius: 45rpx;
+  font-size: 32rpx;
+  letter-spacing: 5rpx;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffca64), to(#fb911b));
+  background-image: -webkit-linear-gradient(top, #ffca64, #fb911b);
+  background-image: linear-gradient(to bottom, #ffca64, #fb911b);
+  color: #fff;
+  font-weight: 700;
+}
+.signin-img .yqd {
+  width: 308rpx;
+  -webkit-border-radius: 45rpx;
+          border-radius: 45rpx;
+  font-size: 32rpx;
+  letter-spacing: 5rpx;
+  color: #fff;
+  font-weight: 700;
+}
+.date {
+  height: 182rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.date-list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.date-list text:nth-child(1) {
+  width: 56rpx;
+  height: 56rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  background-color: #72a1ff;
+  text-align: center;
+  line-height: 56rpx;
+  font-size: 26rpx;
+  color: #fff;
+}
+.date-list text:nth-child(2) {
+  font-size: 26rpx;
+  color: #fff;
+  margin-top: 10rpx;
+}
+.calendar {
+  position: relative;
+}
+.calendar image {
+  width: 100%;
+  height: 53rpx;
+  position: absolute;
+  top: -22rpx;
+}
+.dkgz {
+  padding: 0 48rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.dkgz text:nth-child(1) {
+  font-size: 30rpx;
+  color: #fff;
+  margin-top: 45rpx;
+}
+.dkgz text:nth-child(2) {
+  font-size: 26rpx;
+  color: #fff;
+  line-height: 40rpx;
+  margin: 33rpx 0;
+}
+.dkgz text:nth-child(3) {
+  font-size: 26rpx;
+  color: #fff;
+  line-height: 40rpx;
+  margin-bottom: 60rpx;
+}
+

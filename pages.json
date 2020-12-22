@@ -1,0 +1,178 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "知识付费在线课程"
+			}
+		}, 
+		{
+			"path" : "pages/vip/vip",
+			"style" : {
+				"navigationBarBackgroundColor": "#333",
+				"navigationBarTitleText": "会员中心"
+			}
+		},
+		{
+			"path" : "pages/user/user",
+			"style" : {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path" : "pages/course-details/course-details",
+			"style" : {
+				"navigationBarTitleText": "详情"
+			}
+		}
+        ,{
+            "path" : "pages/sign-in/sign-in",
+            "style" : {
+							"navigationBarTitleText": "签到领积分"
+						}
+        }
+        ,{
+            "path" : "pages/credits-exchange/credits-exchange",
+            "style" : {
+							"navigationBarTitleText": "积分兑换"
+						}
+        }
+        ,
+		{
+            "path" : "pages/login/login",
+            "style" : {
+							"navigationBarTitleText": "登录"
+						}
+        }
+        ,{
+            "path" : "pages/tutor-list/tutor-list",
+            "style" : {
+							"navigationBarTitleText": "导师列表"
+						}
+        }
+        ,
+		{
+		    "path" : "pages/copyright/copyright",
+		    "style" : {
+							"navigationBarTitleText": "版权信息"
+						}
+		}
+        ,{
+            "path" : "pages/confirm-order-form/confirm-order-form",
+            "style" : {
+							"navigationBarTitleText": "确认订单"
+						}
+        }
+		,{
+		    "path" : "pages/tuwen/tuwen",
+		    "style" : {
+				"navigationBarTitleText": "图文详情"
+			}
+		},
+        {
+            "path" : "pages/list-page/list-page",
+            "style" : {
+							"navigationBarTitleText": "分类"
+						}
+        }
+        ,{
+            "path" : "pages/tutor-introduced/tutor-introduced",
+            "style" : {
+							"navigationBarTitleText": "导师介绍"
+						}
+        }
+        ,{
+            "path" : "pages/wo-course/wo-course",
+            "style" : {
+							"navigationBarTitleText": "我的课程"
+						}
+        }
+        ,{
+            "path" : "pages/wo-subscribe/wo-subscribe",
+            "style" : {
+							"navigationBarTitleText": "我的订阅"
+						}
+        }
+        ,{
+            "path" : "pages/recruit/recruit",
+            "style" : {
+							"navigationBarTitleText": "讲师招募"
+						}
+        }
+        ,{
+            "path" : "pages/course-list/course-list",
+            "style" : {
+							"navigationBarTitleText": "课程列表"
+						}
+        }
+        
+        ,{
+            "path" : "pages/learn-time/learn-time",
+            "style" : {
+                "navigationBarTitleText": "学习时长",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/message/message",
+            "style" : {
+                "navigationBarTitleText": "消息",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/message-details/message-details",
+            "style" : {
+                "navigationBarTitleText": "消息详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/estimate/estimate",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "评价",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "zsffzxkc",
+		"navigationBarBackgroundColor": "#4b89ff",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color":"#333",
+		"selectedColor":"#007AFF",
+		"backgroundColor":"#fff",
+		"borderStyle":"black",
+		"fontSize":"12px",
+		"iconWidth":"20px",
+		"spacing":"5px",
+		"height":"60px",
+		"list":[
+		    {
+		        "pagePath":"pages/index/index",
+		        "text":"首页",
+		        "iconPath":"./static/home1.png",
+		        "selectedIconPath":"./static/home2.png"
+		    },
+		    {
+		        "pagePath":"pages/vip/vip",
+		        "text":"VIP",
+		        "iconPath":"./static/viplogo.png",
+		        "selectedIconPath":"./static/viplogo1.png"
+		    },
+		    {
+		        "pagePath":"pages/user/user",
+		        "text":"我的",
+		        "iconPath":"./static/my1.png",
+		        "selectedIconPath":"./static/my2.png"
+		    }
+		]
+	}
+}

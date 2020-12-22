@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "导师介绍",
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

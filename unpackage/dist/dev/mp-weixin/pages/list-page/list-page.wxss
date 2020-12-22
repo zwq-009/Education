@@ -1,0 +1,104 @@
+.search.data-v-9c0972f8 {
+  height: 90rpx;
+  background-color: #4b89ff;
+  padding: 0 20rpx;
+  padding-top: 30rpx;
+}
+.search-input.data-v-9c0972f8 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.search-input text.data-v-9c0972f8 {
+  font-size: 31rpx;
+  color: #fff;
+  margin-top: 10rpx;
+}
+.search-input image.data-v-9c0972f8 {
+  width: 25rpx;
+  height: 14rpx;
+  margin: 25rpx 20rpx 0 10rpx;
+}
+.search-input input.data-v-9c0972f8 {
+  width: 710rpx;
+  height: 63rpx;
+  border: 0;
+  background-color: #fff;
+  -webkit-border-radius: 63rpx;
+          border-radius: 63rpx;
+  font-size: 24rpx;
+  padding-left: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.search-input .goods-search.data-v-9c0972f8 {
+  width: 28rpx;
+  height: 28rpx;
+  position: absolute;
+  right: 10rpx;
+  top: -5rpx;
+  z-index: 99;
+}
+.scroll.data-v-9c0972f8 {
+  height: calc(100vh - 120rpx);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.scroll-left.data-v-9c0972f8 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.scroll-left view.data-v-9c0972f8 {
+  height: 100rpx;
+  background-color: #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 2rpx solid #ddd;
+  font-size: 34rpx;
+  color: #333;
+  letter-spacing: 2rpx;
+}
+.scroll-left .active.data-v-9c0972f8 {
+  background-color: #fff;
+}
+.scroll-right.data-v-9c0972f8 {
+  -webkit-box-flex: 5;
+  -webkit-flex: 5;
+          flex: 5;
+  background-color: #fff;
+  padding: 0 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.scroll-right .item.data-v-9c0972f8 {
+  display: inline-block;
+  width: 220rpx;
+  height: 60rpx;
+  background-color: #eee;
+  text-align: center;
+  line-height: 60rpx;
+  -webkit-border-radius: 60rpx;
+          border-radius: 60rpx;
+  margin: 20rpx 12rpx 0;
+}
+.scroll-right .item text.data-v-9c0972f8 {
+  font-size: 30rpx;
+  font-weight: 700;
+  letter-spacing: 4rpx;
+  color: #333;
+}
+

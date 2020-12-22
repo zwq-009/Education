@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/vip/vip",
+    "pages/user/user",
+    "pages/course-details/course-details",
+    "pages/sign-in/sign-in",
+    "pages/credits-exchange/credits-exchange",
+    "pages/login/login",
+    "pages/tutor-list/tutor-list",
+    "pages/copyright/copyright",
+    "pages/confirm-order-form/confirm-order-form",
+    "pages/tuwen/tuwen",
+    "pages/list-page/list-page",
+    "pages/tutor-introduced/tutor-introduced",
+    "pages/wo-course/wo-course",
+    "pages/wo-subscribe/wo-subscribe",
+    "pages/recruit/recruit",
+    "pages/course-list/course-list",
+    "pages/learn-time/learn-time",
+    "pages/message/message",
+    "pages/message-details/message-details",
+    "pages/estimate/estimate"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "zsffzxkc",
+    "navigationBarBackgroundColor": "#4b89ff",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "fontSize": "12px",
+    "iconWidth": "20px",
+    "spacing": "5px",
+    "height": "60px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./static/home1.png",
+        "selectedIconPath": "./static/home2.png"
+      },
+      {
+        "pagePath": "pages/vip/vip",
+        "text": "VIP",
+        "iconPath": "./static/viplogo.png",
+        "selectedIconPath": "./static/viplogo1.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "./static/my1.png",
+        "selectedIconPath": "./static/my2.png"
+      }
+    ]
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取您当前所在城市"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

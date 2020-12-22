@@ -1,0 +1,123 @@
+.tutor-title.data-v-7d28d5f4 {
+  height: 125rpx;
+  background-color: #fff;
+  padding-top: 45rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.tutor-title-item.data-v-7d28d5f4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.tutor-title-item view.data-v-7d28d5f4 {
+  font-size: 30rpx;
+  color: #575757;
+}
+.tutor-title-item .btna.data-v-7d28d5f4 {
+  font-weight: 700;
+  color: #131313;
+}
+.tutor-title-item ._underline.data-v-7d28d5f4 {
+  width: 70rpx;
+  height: 7rpx;
+  background-color: #2f77ff;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
+  margin-top: 15rpx;
+}
+.tutor-content .dsjs.data-v-7d28d5f4 {
+  display: none;
+  padding: 20rpx;
+  margin-top: 20rpx;
+  border-top: 2rpx solid #ddd;
+  border-bottom: 2rpx solid #ddd;
+}
+.tutor-content .dsjs text.data-v-7d28d5f4 {
+  font-size: 32rpx;
+  color: #333;
+  letter-spacing: 4rpx;
+}
+.tutor-content .works.data-v-7d28d5f4 {
+  display: none;
+  padding: 0 20rpx;
+}
+.tutor-content .works-list.data-v-7d28d5f4 {
+  height: 200rpx;
+  padding: 0 30rpx;
+  margin-top: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.tutor-content .works-list-left.data-v-7d28d5f4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.tutor-content .works-list-left text.data-v-7d28d5f4:nth-child(1) {
+  font-size: 32rpx;
+  font-weight: 700;
+  color: #333;
+}
+.tutor-content .works-list-left text.data-v-7d28d5f4:nth-child(2) {
+  font-size: 28rpx;
+  color: #8d8d8d;
+  margin-top: 6rpx;
+}
+.tutor-content .works-list-left .keshi.data-v-7d28d5f4 {
+  margin-top: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.tutor-content .works-list-left .keshi image.data-v-7d28d5f4 {
+  width: 34rpx;
+  height: 34rpx;
+}
+.tutor-content .works-list-left .keshi text.data-v-7d28d5f4 {
+  font-size: 28rpx;
+  color: #8d8d8d;
+  margin-left: 10rpx;
+}
+.tutor-content .works-list-right.data-v-7d28d5f4 {
+  width: 250rpx;
+  height: 150rpx;
+}
+.tutor-content .dis.data-v-7d28d5f4 {
+  display: block;
+}
+

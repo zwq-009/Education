@@ -1,0 +1,63 @@
+.message-details-list.data-v-0605af00 {
+  margin: 30rpx;
+  padding: 30rpx;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.message-details-list .item-left.data-v-0605af00 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.message-details-list .item-left text.data-v-0605af00:nth-child(1) {
+  font-size: 32rpx;
+  font-weight: 700;
+  color: #333;
+}
+.message-details-list .item-left text.data-v-0605af00:nth-child(2),
+.message-details-list .item-left text.data-v-0605af00:nth-child(3) {
+  font-size: 26rpx;
+  color: #999;
+}
+.message-details-list .item-right.data-v-0605af00 {
+  margin-left: 40rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.message-details-list .item-right text.data-v-0605af00:nth-child(1) {
+  font-size: 34rpx;
+  font-weight: 700;
+  color: #333;
+}
+.message-details-list .item-right text.data-v-0605af00:nth-child(2) {
+  font-size: 30rpx;
+  color: #999;
+  margin-top: 10rpx;
+}
+.wuxiaoxi.data-v-0605af00 {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.wuxiaoxi image.data-v-0605af00 {
+  width: 100%;
+  height: 100%;
+}
+

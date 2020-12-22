@@ -1,0 +1,154 @@
+page {
+  background-color: #fff;
+  font-size: 35rpx;
+  font-family: SimHei;
+  color: #262626;
+}
+.header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 30rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.header image {
+  width: 17rpx;
+  height: 30rpx;
+}
+.container1-img1 {
+  width: 243rpx;
+  height: 270rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.container1-img1 image {
+  width: 100%;
+  height: 100%;
+}
+.container1-img2 {
+  width: 218rpx;
+  height: 350rpx;
+  position: absolute;
+  bottom: 150rpx;
+  right: 0;
+}
+.container1-img2 image {
+  width: 100%;
+  height: 100%;
+}
+.container1 .middle {
+  margin-top: 150rpx;
+  width: 100%;
+  z-index: 99;
+}
+.container1 .middle-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: #e0e5ff;
+  width: 75%;
+  padding: 30rpx 40rpx;
+  margin: 60rpx auto;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
+  font-size: 30rpx;
+}
+.container1 .middle-item image {
+  width: 32rpx;
+  height: 40rpx;
+}
+.container1 .middle-item input {
+  margin-left: 25rpx;
+}
+.container1 .middle-item .placeholder {
+  font-size: 30rpx;
+}
+.container1 .middle-item .code {
+  width: 50%;
+  border-right: 1rpx solid #ccc;
+}
+.container1 .middle-item .getcode {
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border: none;
+  font-size: 30rpx;
+  outline: none;
+  -webkit-border-radius: 0;
+          border-radius: 0;
+  background-color: transparent;
+  line-height: inherit;
+  width: -webkit-max-content;
+  width: max-content;
+}
+.container1 .middle-item .getcode:after {
+  border: none;
+}
+.container1 .middle .loginbtn {
+  font-size: 35rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+  margin-top: 120rpx;
+  color: #fff;
+  background-image: -webkit-gradient(linear, left top, right top, from(#a9b7ff), to(#3e5eff));
+  background-image: -webkit-linear-gradient(left, #a9b7ff, #3e5eff);
+  background-image: linear-gradient(to right, #a9b7ff, #3e5eff);
+  background-size: 100% 100%;
+}
+.container1 .middle .loginbtn text {
+  margin: 0 auto;
+}
+.container1 .middle .info {
+  margin-top: 30rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+.container1 .middle .regbtn {
+  color: #3e5eff;
+}
+.container1 .bottom {
+  margin-top: 160rpx;
+}
+.container1 .bottom .logintype {
+  text-align: center;
+  font-size: 30rpx;
+}
+.container1 .bottom .wechat-login {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  margin-top: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.container1 .bottom .wechat-login image {
+  width: 94rpx;
+  height: 94rpx;
+}
+.container1 .bottom .wechat-login::after {
+  border: none;
+  outline: none;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "图文详情",
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

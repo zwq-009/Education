@@ -1,0 +1,25 @@
+page.data-v-3951e5f4 {
+  background-color: #fff;
+  font-family: SimHei;
+}
+.header.data-v-3951e5f4 {
+  font-size: 30rpx;
+  font-weight: 700;
+  padding: 30rpx 25rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.header image.data-v-3951e5f4 {
+  width: 53rpx;
+  height: 49rpx;
+  margin-right: 15rpx;
+}
+.content.data-v-3951e5f4 {
+  font-size: 28rpx;
+  padding: 0 25rpx;
+}
+
